@@ -1,0 +1,8 @@
+#subPlans{background-color:blue;padding:5px;margin-bottom=20px;text-align=center}
+#subPlans label {margin-right: 15px}
+.floatLabel{display:block; float:left; clear:left;width: 150px; text-align: right; margin-bottom: 10px}
+.floatCtrl {display:block; float: left; margin-left: 20px; margin-bottom: 10px}
+#agreeLabel {width: 600px; margin: 20px 0px; text-align: center}
+#payment        {background-color: white; clear: left; padding: 5px; width: 400px; margin-left: 100px; }
+.buttons        {text-align: center; margin: 10px 0px ; border-style: none}
+
